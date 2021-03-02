@@ -1,2 +1,2 @@
-# ds_salary_project
-data science project for data science job prediction
+# Life expectancy
+life expectancy for predicting life along different parameters
